@@ -4,6 +4,7 @@ const itemSelectl=document.querySelector('#itemSelect1');
 const inputNumber=document.querySelector('#inputnumber');
 const inputNumber1=document.querySelector('#inputnumber1');
 
+
 function convertfun(){
     let num=inputNumber.value;
    let selectedValue=itemSelectl.value;
